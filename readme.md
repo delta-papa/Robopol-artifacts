@@ -3,7 +3,7 @@
 This a GitHub repo which contains codes, data and results of implementing deep convolutional neural networks for identifying artefacts in RoboPol images. RoboPol is an international collaboration of astronomers from the University of Crete and the Foundation for Research and Technology - Hellas (FORTH) in Greece, the California Institute of Technology in the United States, the Max-Planck Institute for Radioastronomy in Bonn, Germany, the Nicolaus Copernicus University in Poland, and the Inter-University Centre for Astronomy and Astrophysics, in Pune, India. Please visit [the official website](https://www.robopol.org) for more details.
 
 ## Authors
-The code and documentation has been written and compiled by Dhruv Paranjpye (University of Michigan Ann Arbor) and Ashish Mahabal (California Institute of Technology). 
+The code and documentation has been written and compiled by Dhruv Paranjpye (University of Michigan Ann Arbor). He was mentored by Dr. Ashish Mahabal (California Institute of Technology). This project was a part of Dhruv's summer internship at Caltech between May - August 2019. 
 
 ## JSON File
 
