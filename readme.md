@@ -17,7 +17,7 @@ The codes for the entire project have primarily been written in Python 3 but als
 
 
 ## Usage
-You may directly download the Artifact Detection with 3 layers 1 channel input images.ipynb Notebook which has all the code for the deep learning model.
+You may directly download the Artifact Detection with 3 layers and 1 channel input images.ipynb Notebook which has all the code for the deep learning model.
 
 
 ## License
